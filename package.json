@@ -1,0 +1,27 @@
+{
+    "name": "rocket-clicks-code",
+    "displayName": "Rocket Clicks Code",
+    "description": "A color theme that follow the Rocket Clicks style guide.",
+    "publisher": "JoshuaDeGrasse-Baumann",
+    "version": "1.0.0",
+    "keywords": [
+        "Rocket Clicks",
+        "Dark Theme",
+        "red and blue"
+    ],
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rocket Clicks Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rocket Clicks Code-color-theme.json"
+            }
+        ]
+    }
+}
