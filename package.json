@@ -7,7 +7,7 @@
     "icon": "images/rocket-clicks-logo.png",
     "galleryBanner": {
         "color": "#F1F1F1",
-        "theme": "dark"
+        "theme": "light"
     },
     "repository": {
         "type": "git",
