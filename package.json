@@ -4,6 +4,11 @@
     "description": "A color theme that follow the Rocket Clicks style guide.",
     "publisher": "JoshuaDeGrasse-Baumann",
     "version": "1.0.0",
+    "icon": "images/rocket-clicks-logo.png",
+    "galleryBanner": {
+        "color": "#F1F1F1",
+        "theme": "dark"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/jdegbau/rocket-clicks-code/issues"
