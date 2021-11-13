@@ -7,6 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 1.0.4
 - Modified colors for Suggest Widgets and Lists
 - Added a border to the status bar when no folders are opened
+- Fixed a typo in the package.json description
 
 ## 1.0.2
 - Change Gallery Banner to light theme
